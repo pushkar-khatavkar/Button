@@ -1,0 +1,117 @@
+body {
+  background-image: url("background.jpg");
+}
+.button {
+  background-color: #008cff; /* Green */
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.button1 {
+  background-color: rgb(165, 163, 187); 
+  color: #8400ff; 
+  border: 2px solid #8400ff;
+}
+
+.button1:hover {
+  background-color:#8400ff;
+  color: rgb(255, 255, 255);
+  font-weight: 1000;
+}
+
+.button2 {
+  background-color: rgb(255, 255, 255); 
+  color: #000000; 
+  border: 2px solid #4c00ff;
+  border-radius: 20px;
+}
+
+.button2:hover {
+  background-color:#000000;
+  color: rgb(255, 255, 255);
+  font-weight: 1000;
+  border-radius: 20px;
+  cursor: grab;
+}
+
+.button3 {
+  background-color: rgb(223, 85, 85); 
+  color: #00303b; 
+  border: 2px solid #00303b;
+  border-radius: 25px;
+}
+
+.button3:hover {
+  background-color:#00303b;
+  color: rgb(255, 255, 255);
+  font-weight: 1500;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.button4 {
+  background-color: rgb(223, 85, 85); 
+  color: #a8009a; 
+  border: 2px solid #a8009a;
+  border-radius: 25px;
+}
+
+.button4:hover {
+  background-color:#a8009a;
+  color: rgb(0, 0, 0);
+  font-weight: 2000;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.button5 {
+  background-color: rgb(98, 0, 255); 
+  color: #000000; 
+  border: 2px solid #000000;
+  border-radius: 30px;
+}
+
+.button5:hover {
+  background-color:#000000;
+  color: rgb(255, 255, 255);
+  font-weight: 2000;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.button6 {
+  background-color: rgb(146, 242, 255); 
+  color: #44003e; 
+  border: 2px solid #44003e;
+  border-radius: 35px;
+}
+
+.button6:hover {
+  background-color:#44003e;
+  color: rgb(0, 0, 0);
+  font-weight: 2500;
+  border-radius: 35px;
+  cursor: pointer;
+}
+.button8 {
+  background-color#44003e; 
+  color: rgb(146, 242, 255); 
+  border: 2px solid  rgb(146, 242, 255);
+  border-radius: 35px;
+}
+
+.button8:hover {
+  background-color: rgb(146, 242, 255)3e;
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+  border-radius: 40px;
+  cursor: pointer;
+}
